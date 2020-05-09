@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DndCharacterTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-05-02T05:26:17" hostname="LAPTOP-TKKQTL44" time="0.077">
+  <properties/>
+  <testcase name="ability modifier for score 5 is n3" classname="DndCharacterTest" time="0.03"/>
+  <testcase name="ability modifier for score 6 is n2" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="random character is valid" classname="DndCharacterTest" time="0.034"/>
+  <testcase name="ability modifier for score 10 is 0" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 11 is 0" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 12 is 1" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 13 is 1" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 14 is 2" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 15 is 2" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 16 is 3" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 17 is 3" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 18 is 4" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="random ability is within range" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="each ability is only calculated once" classname="DndCharacterTest" time="0.001"/>
+  <testcase name="ability modifier for score 7 is n2" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 3 is n4" classname="DndCharacterTest" time="0.001"/>
+  <testcase name="ability modifier for score 8 is n1" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 4 is n3" classname="DndCharacterTest" time="0.0"/>
+  <testcase name="ability modifier for score 9 is n1" classname="DndCharacterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

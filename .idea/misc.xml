@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/darts" />
+    <file type="web" url="file://$PROJECT_DIR$/dnd-character" />
+    <file type="web" url="file://$PROJECT_DIR$/gigasecond" />
+    <file type="web" url="file://$PROJECT_DIR$/hamming" />
+    <file type="web" url="file://$PROJECT_DIR$/hello-world" />
+    <file type="web" url="file://$PROJECT_DIR$/leap" />
+    <file type="web" url="file://$PROJECT_DIR$/pangram" />
+    <file type="web" url="file://$PROJECT_DIR$/resistor-color" />
+    <file type="web" url="file://$PROJECT_DIR$/resistor-color-duo" />
+    <file type="web" url="file://$PROJECT_DIR$/resistor-color-trio" />
+    <file type="web" url="file://$PROJECT_DIR$/reverse-string" />
+    <file type="web" url="file://$PROJECT_DIR$/rna-transcription" />
+    <file type="web" url="file://$PROJECT_DIR$/transpose" />
+    <file type="web" url="file://$PROJECT_DIR$/two-fer" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+</project>
